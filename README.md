@@ -2,7 +2,7 @@
 
 ### About Me
 * 🌱 I am a computer Science and Engineering student at UCLA with an expected graduation in Spring 2024
-* 🎞️ I am a Data and Development Intern at Paramount Global working in the [Data and Decisions Science Group](https://science.viacom.com/)
+* 🎞️ I am a Data and Development Intern at Paramount Global working in the [Data and Decision Science Group](https://science.viacom.com/)
 * 🛰️ I previously interned at Northrop Grumman as a Software Engineering Intern
 * 📚 I am the [ACM at UCLA](https://github.com/uclaacm) Teach LA Dev Team President
   * Teach LA pairs UCLA students with schools in Los Angeles to provide free computer science classes. Our goal is to empower all students with the ability to code, and use it to make a difference.
